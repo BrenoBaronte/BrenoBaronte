@@ -4,6 +4,7 @@ I'm a software developer with back-end focus.
 Here you can see some of my C# projects(main projects), and a lot of experiments with Dart, JavaScript, Python, C++, and Unity.
 
 Glad you came!
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brenobaronte.github-profile)
 
 <!--
