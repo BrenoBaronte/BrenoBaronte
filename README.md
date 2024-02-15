@@ -1,6 +1,6 @@
 ### Hi, I'm Breno 👋
 
-I'm a software developer with a back-end focus.
+I'm a backend software engineer.
 Here you can see some of my C# projects(main projects), and a lot of experiments with Dart, JavaScript, Python, C++, and Unity.
 
 <!--
