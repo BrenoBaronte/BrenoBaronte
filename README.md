@@ -1,7 +1,6 @@
 ### Hi, I'm Breno 👋
 
 I'm a backend software engineer.
-Here you can see some of my C# projects, and many experiments with Dart, JavaScript, Python, C++, and Unity.
 
 <!--
 **BrenoBaronte/BrenoBaronte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
